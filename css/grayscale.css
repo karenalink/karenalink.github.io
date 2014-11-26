@@ -378,6 +378,12 @@ body {
     -o-background-size: cover;
 }
 
+## zelf toegevoegd 
 .text-inverse {
   color: #000;
+}
+
+#beschikbaarheid ul {
+  padding-left: 0;
+  list-style: none;
 }

@@ -1,1 +1,0 @@
-https://basj@doodindepot.scm.azurewebsites.net:443/doodindepot.git
